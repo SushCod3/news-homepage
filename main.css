@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Single+Day&display=swap");
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding: 1rem;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  /* font */
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  /* display: flex;
+    flex-direction: column;
+    margin: auto; */
+  background-color: hsl(36, 100%, 99%);
+  max-width: 1280px;
+}
+
+#new h1 {
+  margin: 1.2rem 0;
+  color: hsl(35, 77%, 62%);
+}
+
+#new {
+  min-height: 100%;
+  color: hsl(36, 100%, 99%);
+  background-color: hsl(240, 100%, 5%);
+  padding: 0.9rem 1.4rem;
+  font-size: small;
+}
+
+hr {
+  color: hsl(233, 8%, 79%);
+  margin: 1.5rem 0;
+  opacity: 0.5;
+}
+
+#new p {
+  color: hsl(233, 8%, 79%);
+}
+
+button {
+  background-color: hsl(5, 85%, 63%);
+  color: hsl(36, 100%, 99%);
+  border: none;
+  padding: 0.8rem 2rem;
+  letter-spacing: 3px;
+}
+
+@media (max-width: 576px) {
+  body {
+    width: 100%;
+  }
+
+  #up {
+    margin: 1rem 0;
+  }
+
+  #up img {
+    display: block;
+    min-width: 100%;
+  }
+  #home,
+  #home .head,
+  .head .small-head,
+  .head .big-head {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+    display: block;
+  }
+
+  #new {
+    width: 100%;
+    margin: 5rem 0 1rem;
+    display: block;
+  }
+}
+
+@media (max-width: 768px) {
+  #trending {
+    display: block;
+    margin-top: 5rem;
+  }
+  #article-1,
+  #article-2,
+  #article-3 {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+}
+
+#trending p {
+  font-size: 0.7rem;
+  color: hsl(236, 13%, 42%) !important;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+h2 {
+  color: hsl(233, 8%, 79%) !important;
+}
+
+#trending {
+  justify-content: space-between;
+}
+
+#trending h4 {
+  color: hsl(240, 100%, 5%);
+  font-weight: 700;
+}
