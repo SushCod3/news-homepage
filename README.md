@@ -26,7 +26,6 @@ Users should be able to:
 
 ![Alt Desktop](assets/images/Screenshot-desktop.png)
 
-Mobile
 ![Alt Mobile](assets/images/Screenshot-mobile.png)
 
 ### Built with
