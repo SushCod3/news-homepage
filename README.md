@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
-![](assets/images/Screenshot-desktop.png)
+
+![Alt Desktop](assets/images/Screenshot-desktop.png)
 
 Mobile
-![](assets/images/Screenshot-mobile.png)
+![Alt Mobile](assets/images/Screenshot-mobile.png)
 
 ### Built with
 
