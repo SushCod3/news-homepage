@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-![](.assets/images/Screenshot-desktop.png)
+![](assets/images/Screenshot-desktop.png)
 
 Mobile
-![](.assets/images/Screenshot-mobile.png)
+![](assets/images/Screenshot-mobile.png)
 
 ### Built with
 
